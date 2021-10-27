@@ -1,6 +1,7 @@
 # DIO
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+Projeto de introdução ao Angular no Digital Innovation One
+ministrado por Wesllhey Holanda.
 
 ## Development server
 
